@@ -1,5 +1,0 @@
-Yapılan düzenlemeler:
-1- leet modda sadece  "i" ve "o" yapıldı (i = 1 , o = 0)
-2- ilk doğum günü sorusu başına 4 adet karakter koyup yıl yazılmalıdır (00.00.2006)
-3- random yıllar 2000 ve sonrasına alındı
-4- karışık karakterler daha çok kullanılan karaterler hariç silindi
